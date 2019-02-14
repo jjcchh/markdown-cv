@@ -5,8 +5,7 @@ title: Jeremy Chang's CV
 # Jeremy Chang
 Graduate student in neuroscience, Princeton University.
 
-<div id="webaddress">
-<a href="jjchang64@gmail.com">jjchang64@gmail.com</a>
+[jjchang64@gmail.com](mailto:jjchang64@gmail.com)
 
 ## Education
 
