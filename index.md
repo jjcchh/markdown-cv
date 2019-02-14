@@ -7,9 +7,6 @@ Graduate student in neuroscience, Princeton University.
 
 <div id="webaddress">
 <a href="jjchang64@gmail.com">jjchang64@gmail.com</a>
- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
 
 ## Education
 
