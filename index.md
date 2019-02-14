@@ -1,14 +1,14 @@
 ---
 layout: cv
-title: Isaac Newton's CV
+title: Jeremy Chang's CV
 ---
 # Jeremy Chang
 Graduate student in neuroscience, Princeton University.
 
-<!--- <div id="webaddress">
+<div id="webaddress">
 <a href="jjchang64@gmail.com">jjchang64@gmail.com</a>
  | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div> --->
+</div>
 
 
 ## Education
@@ -118,7 +118,7 @@ Rhino, AutoCAD, Adobe suite.
 MATLAB, Python, R.
 
 
-<!-- ### Footer
-Last updated: February 2019 -->
+### Footer
+Last updated: February 2019
 
 
