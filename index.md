@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jeremy Chang's CV
 ---
 # Jeremy Chang
 Graduate student in neuroscience, Princeton University.
@@ -21,16 +21,18 @@ __Princeton University__
 __Swarthmore College__
 - B.A., Biology and Studio Art
 
-### Specialized in
 
-`Skills`
-Whole-cell patch clamp electrophysiology, multi-/single-photon imaging, insect handling.
+## Awards
 
-`Software`
-Rhino, AutoCAD, Adobe suite.
+`2015`
+Associate Member, Sigma XI.
+Robert K. Enders Field Biology Award, Swarthmore College.
 
-`Languages`
-MATLAB, Python, R.
+`2014`
+Summer Experiential Fellowship, Swarthmore College.
+
+`2012`
+AP Scholar with Distinction.
 
 
 ## Research
@@ -54,6 +56,7 @@ Investigated the effects of wind and flower orientation on the landing dynamics 
 __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY. 
 Advisors: Victor Reuter, Samson Fine. 
 Streamlined clinical database of prostate cancers, characterized antibodies, developed staining protocol, and performed immunohistochemical assays on tissue microarrays.
+
 
 ## Publications
 
@@ -87,22 +90,33 @@ __Chang, J.J.__, Crall, J.D., & Combes, S.A. (2015). Touching Down Headfirst: La
 `2015`
 Crall J.D., __Chang J.J.__, Mistick E.A., & Combes S.A. (2015). Free flight through tough turbulence: Bumblebee flight stability across body size, speed, and flow regime. Int. and Comp. Biol. 55(Suppl. 1), E240. Conference abstract.
 
+
 ## Exhibitions (Art)
 
 `2016`
 __Chang, J.J.__ (2016). Shapes and Veils. Senior Thesis Exhibition, Department of Art, Swarthmore College, List Gallery.
 
-## Awards
+## Service and Outreach
 
-`2015`
-Associate Member, Sigma XI.
-Robert K. Enders Field Biology Award, Swarthmore College.
+`August 2015`
+__Student presenter__, Concord Field Station Workshop, Bedford, MA. 
+A two day workshop on fieldwork and integrative approaches to research for primary and secondary school teachers. Presented research on insect landing.
 
-`2014`
-Summer Experiential Fellowship, Swarthmore College.
+`December 2012, 2013`
+__Volunteer__, Project Angkor, Cambodia. 
+An ongoing humanitarian mission providing free healthcare, education, and training to the people of Cambodia. Worked in the ophthalmology department; conducted refraction and visual acuity tests, prescribed reading glasses, and observed surgeries. 
 
-`2012`
-AP Scholar with Distinction.
+### Specialized in
+
+`Skills`
+Whole-cell patch clamp electrophysiology, multi-/single-photon imaging, insect handling.
+
+`Software`
+Rhino, AutoCAD, Adobe suite.
+
+`Languages`
+MATLAB, Python, R.
+
 
 <!-- ### Footer
 
