@@ -15,14 +15,14 @@ Graduate student in neuroscience at Princeton Univeristy
 __Princeton University__
 - Ph.D., Neuroscience
 
-`2012-2016`
+`2012-16`
 __Swarthmore College__
 - B.A., Biology and Studio Art
 
 
 ## Awards
 
-`2018-2019`
+`2018-19`
 __McDonnell Fellows in Neuroscience Graduate Fellowship__
 - Princeton University
 
@@ -49,17 +49,17 @@ __Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
 - Advisor: Hokto Kazama
  - State-dependent modulation of sensory processing in the central brain of Drosophila.
 
-`2016-2018`
+`2016-18`
 __Research Assistant__, Zuckerman MBBI, Columbia University, New York, NY
 - Advisor: Rudy Behnia
  - Mechanisms of signal generation in a feedforward OFF cell involved in visual motion processing in Drosophila melanogaster.
 
-`2014-2015`
+`2014-15`
 __Undergraduate Researcher__, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA
 - Advisors: James Crall, Stacey Combes
  - Effects of wind and flower orientation on the landing dynamics of bumblebees (Bombus impatiens), and landing in variable flow.
 
-`2011-2013`
+`2011-13`
 __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY
 - Advisors: Victor Reuter, Samson Fine
  - Clinical database streamlining, antibody characterization, staining protocol development, immunohistochemical assays on tissue microarrays.
@@ -109,7 +109,7 @@ __Chang, J.J.__ (2016). Shapes and Veils. Senior Thesis Exhibition, Department o
 __Student presenter__, Concord Field Station Workshop, Bedford, MA
 - A two day workshop on fieldwork and integrative approaches to research for primary and secondary school teachers. Presented research on insect landing.
 
-`2012-2013`
+`2012-13`
 __Volunteer__, Project Angkor, Cambodia
 - Conducted refraction and visual acuity tests, prescribed reading glasses, and observed surgeries for an ongoing humanitarian mission providing free healthcare, education, and training to the people of Cambodia. 
 
