@@ -129,4 +129,4 @@ MATLAB, Python, R.
 Last updated: February 2019 --->
 
 
-<!-- ![PNI_logo](https://github.com/jjcchh/markdown-cv/blob/gh-pages/PNI_logo.png "PNI Logo") -->
+<!--- ![PNI_logo](https://github.com/jjcchh/markdown-cv/blob/gh-pages/PNI_logo.png "PNI Logo") --->
