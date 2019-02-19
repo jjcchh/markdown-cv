@@ -44,11 +44,11 @@ _AP Scholar with Distinction_
 
 `2018-now`
 __Graduate Research Assistant__, Princeton Neuroscience Institute, Princeton, NJ
-- Rotation advisor, Spring: [Mala Murthy](http://mala-murthy.squarespace.com/)
+- Rotation advisor, Spring19: [Mala Murthy](http://mala-murthy.squarespace.com/)
 - State-dependent modulation of feature-selective acoustic neurons in Drosophila.
 
 
-- Rotation advisor, Fall: [Andrew Leifer](http://leiferlab.princeton.edu/)
+- Rotation advisor, Fall18: [Andrew Leifer](http://leiferlab.princeton.edu/)
 - Neuromodulatory tuning of whole-brain neural dynamics during locomotion in _C. elegans_.
 
 `2018`
