@@ -44,29 +44,29 @@ __AP Scholar with Distinction__
 
 `2018`
 __Graduate Research Assistant__, Princeton Neuroscience Institute, Princeton, NJ
-- *Rotation advisor, Spring: Mala Murthy
+- *Rotation advisor, Spring: Mala Murthy*
 - State-dependent modulation of feature-selective acoustic neurons in _Drosophila_.
-- Rotation advisor, Fall: Andrew Leifer
+- *Rotation advisor, Fall: Andrew Leifer*
 - Whole-brain neural dynamics during locomotion in _C. elegans_.
 
 `2018`
 __Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
-- *Advisor: Hokto Kazama
+- *Advisor: Hokto Kazama*
 - State-dependent modulation of sensory processing in the central brain of _Drosophila melanogaster_.
 
 `2016-18`
 __Research Assistant__, Zuckerman MBBI, Columbia University, New York, NY
-- *Advisor: Rudy Behnia
+- *Advisor: Rudy Behnia*
 - Mechanisms of signal generation in a feedforward OFF cell involved in visual motion processing in _Drosophila_.
 
 `2014-15`
 __Undergraduate Researcher__, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA
-- *Advisors: James Crall, Stacey Combes
+- *Advisors: James Crall, Stacey Combes*
 - Effects of wind and flower orientation on the landing dynamics of bumblebees (_Bombus impatiens_), and landing in variable flow.
 
 `2011-13`
 __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY
-- *Advisors: Victor Reuter, Samson Fine
+- *Advisors: Victor Reuter, Samson Fine*
 - Clinical database streamlining, antibody characterization, staining protocol development, immunohistochemical assays on tissue microarrays.
 
 ## Publications
