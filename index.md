@@ -101,7 +101,7 @@ __Chang, J.J.__, Crall, J.D., & Combes, S.A. (2015). Touching Down Headfirst: La
 `2015`
 Crall J.D., __Chang J.J.__, Mistick E.A., & Combes S.A. (2015). Free flight through tough turbulence: Bumblebee flight stability across body size, speed, and flow regime. Int. and Comp. Biol. 55(Suppl. 1), E240. Conference abstract.
 
-## Exhibitions (Art)
+## Exhibitions
 
 `2016`
 __Chang, J.J.__ (2016). Shapes and Veils. Senior Thesis Exhibition, Department of Art, Swarthmore College, List Gallery.
