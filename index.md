@@ -19,7 +19,6 @@ __Princeton University__
 __Swarthmore College__
 - B.A., Biology and Studio Art
 
-
 ## Awards
 
 `2018-19`
@@ -40,7 +39,6 @@ __Summer Experiential Fellowship__
 
 `2012`
 __AP Scholar with Distinction__
-
 
 ## Research
 
@@ -63,7 +61,6 @@ __Undergraduate Researcher__, Department of Organismic and Evolutionary Biology,
 __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY
 - Advisors: Victor Reuter, Samson Fine
  - Clinical database streamlining, antibody characterization, staining protocol development, immunohistochemical assays on tissue microarrays.
-
 
 ## Publications
 
@@ -96,7 +93,6 @@ __Chang, J.J.__, Crall, J.D., & Combes, S.A. (2015). Touching Down Headfirst: La
 
 `2015`
 Crall J.D., __Chang J.J.__, Mistick E.A., & Combes S.A. (2015). Free flight through tough turbulence: Bumblebee flight stability across body size, speed, and flow regime. Int. and Comp. Biol. 55(Suppl. 1), E240. Conference abstract.
-
 
 ## Exhibitions (Art)
 
