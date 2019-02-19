@@ -21,23 +21,23 @@ __Swarthmore College__
 ## Awards
 
 `2018-2019`
-McDonnell Fellows in Neuroscience Graduate Fellowship
+__McDonnell Fellows in Neuroscience Graduate Fellowship__
 - Princeton University
 
 `2015`
-Associate Member
+__Associate Member__
 - Sigma XI
 
 `2015`
-Robert K. Enders Field Biology Award
+__Robert K. Enders Field Biology Award__
 - Swarthmore College
 
 `2014`
-Summer Experiential Fellowship
+__Summer Experiential Fellowship__
 - Swarthmore College
 
 `2012`
-AP Scholar with Distinction
+__AP Scholar with Distinction__
 
 
 ## Research
