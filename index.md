@@ -65,7 +65,7 @@ __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Ce
 
 ## Publications
 
-A list is also available [online](https://scholar.google.com/citations?user=nMrhcyUAAAAJ&hl=en)
+<!--- A list is also available [online](https://scholar.google.com/citations?user=nMrhcyUAAAAJ&hl=en) --->
 
 ### Journals
 
