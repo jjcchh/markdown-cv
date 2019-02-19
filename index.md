@@ -22,39 +22,39 @@ __Swarthmore College__
 ## Fellowships & Awards
 
 `2018-19`
-_McDonnell Fellows in Neuroscience Graduate Fellowship_
+__McDonnell Fellows in Neuroscience Graduate Fellowship__
 - Princeton University
 
 `2015`
-_Associate Member_
+__Associate Member__
 - Sigma XI
 
 `2015`
-_Robert K. Enders Field Biology Award_
+__Robert K. Enders Field Biology Award__
 - Swarthmore College
 
 `2014`
-_Summer Experiential Fellowship_
+__Summer Experiential Fellowship__
 - Swarthmore College
 
 `2012`
-_AP Scholar with Distinction_
+__AP Scholar with Distinction__
 
 ## Research
 
 `2018-now`
 __Graduate Research Assistant__, Princeton Neuroscience Institute, Princeton, NJ
-- Rotation advisor, Spring19: [Mala Murthy](http://mala-murthy.squarespace.com/)
-- State-dependent modulation of feature-selective acoustic neurons in Drosophila.
+- Rotation advisor, Spring 2019: [Mala Murthy](http://mala-murthy.squarespace.com/)
+- State-dependent modulation of feature-selective acoustic neurons in Drosophila melanogaster.
 
 
-- Rotation advisor, Fall18: [Andrew Leifer](http://leiferlab.princeton.edu/)
-- Neuromodulatory tuning of whole-brain neural dynamics during locomotion in _C. elegans_.
+- Rotation advisor, Fall 2018: [Andrew Leifer](http://leiferlab.princeton.edu/)
+- Neuromodulatory tuning of whole-brain neural dynamics during locomotion in C. elegans.
 
 `2018`
 __Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
 - Advisor: [Hokto Kazama](http://kazama.brain.riken.jp/)
-- State-dependent modulation of sensory processing in the central brain of Drosophila melanogaster.
+- State-dependent modulation of sensory processing in the central brain of Drosophila.
 
 `2016-18`
 __Research Assistant__, Zuckerman MBBI, Columbia University, New York, NY
