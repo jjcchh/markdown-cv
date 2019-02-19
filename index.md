@@ -20,8 +20,13 @@ __Swarthmore College__
 
 ## Awards
 
+`2018`
+McDonnell Fellowship in Neuroscience, Princeton University.
+
 `2015`
 Associate Member, Sigma XI.
+
+`2015`
 Robert K. Enders Field Biology Award, Swarthmore College.
 
 `2014`
