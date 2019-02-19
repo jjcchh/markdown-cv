@@ -45,8 +45,7 @@ AP Scholar with Distinction
 `2018`
 __Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
 - Advisor: Hokto Kazama
-
-State-dependent modulation of sensory processing in the central brain of Drosophila.
+-- State-dependent modulation of sensory processing in the central brain of Drosophila.
 
 `2016-2018`
 __Research Assistant__, Zuckerman MBBI, Columbia University, New York, NY
