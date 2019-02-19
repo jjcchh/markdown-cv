@@ -3,6 +3,8 @@ layout: cv
 title: Jeremy Chang's CV
 ---
 # Jeremy Chang
+
+
 Graduate student in neuroscience at Princeton Univeristy.
 
 [jjchang64@gmail.com](mailto:jjchang64@gmail.com)
@@ -111,7 +113,7 @@ __Student presenter__, Concord Field Station Workshop, Bedford, MA
 __Volunteer__, Project Angkor, Cambodia
 - Conducted refraction and visual acuity tests, prescribed reading glasses, and observed surgeries for an ongoing humanitarian mission providing free healthcare, education, and training to the people of Cambodia. 
 
-### Specialized in
+## Specialized in
 
 `Skills`
 Whole-cell patch clamp electrophysiology, multi-/single-photon imaging, insect handling.
