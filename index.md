@@ -3,7 +3,7 @@ layout: cv
 title: Jeremy Chang's CV
 ---
 # Jeremy Chang
-Graduate student in neuroscience at Princeton.
+Graduate student in neuroscience at Princeton Univeristy.
 
 [jjchang64@gmail.com](mailto:jjchang64@gmail.com)
 
@@ -20,7 +20,7 @@ __Swarthmore College__
 
 ## Awards
 
-`2018`
+`2018-2019`
 McDonnell Fellowship in Neuroscience, Princeton University.
 
 `2015`
