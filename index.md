@@ -21,7 +21,7 @@ __Swarthmore College__
 ## Awards
 
 `2018-2019`
-McDonnell Fellowship in Neuroscience, Princeton University.
+McDonnell Fellows in Neuroscience Graduate Fellowship, Princeton University.
 
 `2015`
 Associate Member, Sigma XI.
