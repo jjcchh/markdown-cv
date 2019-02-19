@@ -45,22 +45,22 @@ AP Scholar with Distinction
 `2018`
 __Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
 - Advisor: Hokto Kazama
--  State-dependent modulation of sensory processing in the central brain of Drosophila.
+- State-dependent modulation of sensory processing in the central brain of Drosophila.
 
 `2016-2018`
 __Research Assistant__, Zuckerman MBBI, Columbia University, New York, NY
 - Advisor: Rudy Behnia
--  Mechanisms of signal generation in a feedforward OFF cell involved in visual motion processing in Drosophila melanogaster.
+- Mechanisms of signal generation in a feedforward OFF cell involved in visual motion processing in Drosophila melanogaster.
 
 `2014-2015`
 __Undergraduate Researcher__, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA
 - Advisors: James Crall, Stacey Combes
--  Effects of wind and flower orientation on the landing dynamics of bumblebees (Bombus impatiens), and landing in variable flow.
+- Effects of wind and flower orientation on the landing dynamics of bumblebees (Bombus impatiens), and landing in variable flow.
 
 `2011-2013`
 __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY
 - Advisors: Victor Reuter, Samson Fine
--  Clinical database streamlining, antibody characterization, staining protocol development, and immunohistochemical assays on tissue microarrays.
+  - Clinical database streamlining, antibody characterization, staining protocol development, and immunohistochemical assays on tissue microarrays.
 
 
 ## Publications
