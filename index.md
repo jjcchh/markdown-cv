@@ -45,9 +45,9 @@ __AP Scholar with Distinction__
 `2018`
 __Graduate Research Assistant__, Princeton Neuroscience Institute, Princeton, NJ
 - Rotation advisor, Spring: [Mala Murthy](http://mala-murthy.squarespace.com/)
-  - State-dependent modulation of feature-selective acoustic neurons in Drosophila.
+- State-dependent modulation of feature-selective acoustic neurons in Drosophila.
 - Rotation advisor, Fall: [Andrew Leifer](http://leiferlab.princeton.edu/)
-  - Neuromodulatory tuning of whole-brain neural dynamics during locomotion in _C. elegans_.
+- Neuromodulatory tuning of whole-brain neural dynamics during locomotion in _C. elegans_.
 
 `2018`
 __Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
