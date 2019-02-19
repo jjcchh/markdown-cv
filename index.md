@@ -28,7 +28,7 @@ McDonnell Fellows in Neuroscience Graduate Fellowship
 Associate Member
 - Sigma XI
 
-`2015`
+` `
 Robert K. Enders Field Biology Award
 - Swarthmore College
 
@@ -60,7 +60,7 @@ __Undergraduate Researcher__, Department of Organismic and Evolutionary Biology,
 `2011-2013`
 __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY
 - Advisors: Victor Reuter, Samson Fine
-  - Clinical database streamlining, antibody characterization, staining protocol development, and immunohistochemical assays on tissue microarrays.
+- Clinical database streamlining, antibody characterization, staining protocol development, and immunohistochemical assays on tissue microarrays.
 
 
 ## Publications
@@ -89,10 +89,10 @@ __Chang, J. J.__, Crall, J. D., & Combes, S. A. (2016). Bumblebees vary their la
 `2015`
 __Chang, J.J.__, Crall, J.D., & Combes, S.A. (2015). Bumblebees vary landing strategy in the presence of wind. Sigma Xi Student Research Poster Session, Swarthmore College. Poster.
 
-`2015`
+` `
 __Chang, J.J.__, Crall, J.D., & Combes, S.A. (2015). Touching Down Headfirst: Landing Strategies of Bumblebees in Variable Flow. Int. and Comp. Biol. 55(Suppl. 1), E232-E232. Society for Integrative and Comparative Biology Annual Meeting, West Palm Beach, FL, 2015. Poster and conference abstract.
 
-`2015`
+` `
 Crall J.D., __Chang J.J.__, Mistick E.A., & Combes S.A. (2015). Free flight through tough turbulence: Bumblebee flight stability across body size, speed, and flow regime. Int. and Comp. Biol. 55(Suppl. 1), E240. Conference abstract.
 
 
