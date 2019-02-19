@@ -64,14 +64,14 @@ body {
 p {
 	position: relative;
 	left: 28%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
 }
 
 code {
 	font: normal normal;
-	font-size: 75%;
+	font-size: 85%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #ccc;
@@ -100,8 +100,8 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	padding-left: 0.00em; /*1.25*/
+	text-indent: 0.00em;
 	/*color: #777;*/
 }
 
@@ -135,7 +135,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 5em; /*2*/
 	position: relative;
 	top: 1.2em;
 	text-align: right;
