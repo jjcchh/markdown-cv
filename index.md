@@ -60,7 +60,8 @@ __Undergraduate Researcher__, Department of Organismic and Evolutionary Biology,
 `2011-2013`
 __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY
 - Advisors: Victor Reuter, Samson Fine
-  - Streamlined clinical database of prostate cancers, characterized antibodies, developed staining protocol, and performed immunohistochemical assays on tissue microarrays.
+
+Streamlined clinical database of prostate cancers, characterized antibodies, developed staining protocol, and performed immunohistochemical assays on tissue microarrays.
 
 
 ## Publications
