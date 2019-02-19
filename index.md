@@ -46,13 +46,14 @@ __AP Scholar with Distinction__
 __Graduate Research Assistant__, Princeton Neuroscience Institute, Princeton, NJ
 - Rotation advisor, Spring: Mala Murthy
 - State-dependent modulation of feature-selective acoustic neurons in _Drosophila_
+
 - Rotation advisor, Fall: Andrew Leifer
 - Whole-brain neural dynamics during locomotion in _C. elegans_
 
 `2018`
 __Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
 - Advisor: Hokto Kazama
-- State-dependent modulation of sensory processing in the central brain of _Drosophila melanogaster__.
+- State-dependent modulation of sensory processing in the central brain of _Drosophila melanogaster_.
 
 `2016-18`
 __Research Assistant__, Zuckerman MBBI, Columbia University, New York, NY
