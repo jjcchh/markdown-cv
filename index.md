@@ -21,41 +21,45 @@ __Swarthmore College__
 ## Awards
 
 `2018-2019`
-McDonnell Fellows in Neuroscience Graduate Fellowship, Princeton University.
+McDonnell Fellows in Neuroscience Graduate Fellowship
+- Princeton University
 
 `2015`
-Associate Member, Sigma XI.
+Associate Member
+- Sigma XI
 
 `2015`
-Robert K. Enders Field Biology Award, Swarthmore College.
+Robert K. Enders Field Biology Award
+- Swarthmore College
 
 `2014`
-Summer Experiential Fellowship, Swarthmore College.
+Summer Experiential Fellowship
+- Swarthmore College
 
 `2012`
-AP Scholar with Distinction.
+AP Scholar with Distinction
 
 
 ## Research
 
 `2018`
-__Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan.
-- Advisor: Hokto Kazama.
+__Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
+- Advisor: Hokto Kazama
 - Studying state-dependent modulation of sensory processing in the central brain of Drosophila.
 
 `2016-2018`
-__Research Assistant__, Zuckerman MBBI, Columbia University, New York, NY. 
-- Advisor: Rudy Behnia. 
+__Research Assistant__, Zuckerman MBBI, Columbia University, New York, NY
+- Advisor: Rudy Behnia
 - Researched mechanisms of signal generation in a feedforward OFF cell involved in visual motion processing in Drosophila melanogaster.
 
 `2014-2015`
-__Undergraduate Researcher__, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA. 
-- Advisors: James Crall, Stacey Combes.
+__Undergraduate Researcher__, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA
+- Advisors: James Crall, Stacey Combes
 - Investigated the effects of wind and flower orientation on the landing dynamics of bumblebees (Bombus impatiens), and landing in variable flow.
 
 `2011-2013`
-__Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY. 
-- Advisors: Victor Reuter, Samson Fine. 
+__Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY
+- Advisors: Victor Reuter, Samson Fine
 - Streamlined clinical database of prostate cancers, characterized antibodies, developed staining protocol, and performed immunohistochemical assays on tissue microarrays.
 
 
@@ -100,12 +104,12 @@ __Chang, J.J.__ (2016). Shapes and Veils. Senior Thesis Exhibition, Department o
 ## Service and Outreach
 
 `2015`
-__Student presenter__, Concord Field Station Workshop, Bedford, MA. 
-A two day workshop on fieldwork and integrative approaches to research for primary and secondary school teachers. Presented research on insect landing.
+__Student presenter__, Concord Field Station Workshop, Bedford, MA
+- A two day workshop on fieldwork and integrative approaches to research for primary and secondary school teachers. Presented research on insect landing.
 
 `2012-2013`
-__Volunteer__, Project Angkor, Cambodia. 
-Conducted refraction and visual acuity tests, prescribed reading glasses, and observed surgeries for an ongoing humanitarian mission providing free healthcare, education, and training to the people of Cambodia. 
+__Volunteer__, Project Angkor, Cambodia
+- Conducted refraction and visual acuity tests, prescribed reading glasses, and observed surgeries for an ongoing humanitarian mission providing free healthcare, education, and training to the people of Cambodia. 
 
 ### Specialized in
 
