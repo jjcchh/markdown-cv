@@ -22,30 +22,32 @@ __Swarthmore College__
 ## Fellowships & Awards
 
 `2018-19`
-__McDonnell Fellows in Neuroscience Graduate Fellowship__
+_McDonnell Fellows in Neuroscience Graduate Fellowship_
 - Princeton University
 
 `2015`
-__Associate Member__
+_Associate Member_
 - Sigma XI
 
 `2015`
-__Robert K. Enders Field Biology Award__
+_Robert K. Enders Field Biology Award_
 - Swarthmore College
 
 `2014`
-__Summer Experiential Fellowship__
+_Summer Experiential Fellowship_
 - Swarthmore College
 
 `2012`
-__AP Scholar with Distinction__
+_AP Scholar with Distinction_
 
 ## Research
 
-`2018`
+`2018-now`
 __Graduate Research Assistant__, Princeton Neuroscience Institute, Princeton, NJ
 - Rotation advisor, Spring: [Mala Murthy](http://mala-murthy.squarespace.com/)
 - State-dependent modulation of feature-selective acoustic neurons in Drosophila.
+
+
 - Rotation advisor, Fall: [Andrew Leifer](http://leiferlab.princeton.edu/)
 - Neuromodulatory tuning of whole-brain neural dynamics during locomotion in _C. elegans_.
 
