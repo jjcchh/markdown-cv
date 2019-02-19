@@ -44,31 +44,29 @@ __AP Scholar with Distinction__
 
 `2018-now`
 __Graduate Research Assistant__, Princeton Neuroscience Institute, Princeton, NJ
-- Rotation advisor, Spring 2019: [Mala Murthy](http://mala-murthy.squarespace.com/)
+- Rotation advisor, Spring 2019: _[Mala Murthy](http://mala-murthy.squarespace.com/)_
 - State-dependent modulation of feature-selective acoustic neurons in Drosophila melanogaster.
-
-
-- Rotation advisor, Fall 2018: [Andrew Leifer](http://leiferlab.princeton.edu/)
+- Rotation advisor, Fall 2018: _[Andrew Leifer](http://leiferlab.princeton.edu/)_
 - Neuromodulatory tuning of whole-brain neural dynamics during locomotion in C. elegans.
 
 `2018`
 __Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
-- Advisor: [Hokto Kazama](http://kazama.brain.riken.jp/)
+- Advisor: _[Hokto Kazama](http://kazama.brain.riken.jp/)_
 - State-dependent modulation of sensory processing in the central brain of Drosophila.
 
 `2016-18`
 __Research Assistant__, Zuckerman MBBI, Columbia University, New York, NY
-- Advisor: [Rudy Behnia](http://behnialab.neuroscience.columbia.edu/)
+- Advisor: _[Rudy Behnia](http://behnialab.neuroscience.columbia.edu/)_
 - Mechanisms of signal generation in a feedforward OFF cell involved in visual motion processing in Drosophila.
 
 `2014-15`
 __Undergraduate Researcher__, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA
-- Advisors: [James Crall](https://www.jamesdcrall.com/), [Stacey Combes](http://combeslab.ucdavis.edu/) (now at UC Davis)
+- Advisors: _[James Crall](https://www.jamesdcrall.com/), [Stacey Combes](http://combeslab.ucdavis.edu/)_ (now at UC Davis)
 - Effects of wind and flower orientation on the landing dynamics of bumblebees (Bombus impatiens), and landing in variable flow.
 
 `2011-13`
 __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Center, New York, NY
-- Advisors: Victor Reuter, Samson Fine
+- Advisors: _Victor Reuter, Samson Fine_
 - Clinical database streamlining, antibody characterization, staining protocol development, immunohistochemical assays on tissue microarrays.
 
 ## Publications
