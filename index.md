@@ -106,7 +106,7 @@ Crall J.D., __Chang J.J.__, Mistick E.A., & Combes S.A. (2015). Free flight thro
 `2016`
 __Chang, J.J.__ (2016). Shapes and Veils. Senior Thesis Exhibition, Department of Art, Swarthmore College, List Gallery.
 
-## Service and Outreach
+## Service & Outreach
 
 `2015`
 __Student presenter__, Concord Field Station Workshop, Bedford, MA
