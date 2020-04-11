@@ -47,13 +47,7 @@ __AP Scholar with Distinction__
 
 `2018-now`
 __Graduate Research Assistant__, Princeton Neuroscience Institute, Princeton, NJ
-- Currently advised by David Tank
-- Rotation, Summer 2019: _[David Tank](https://pni.princeton.edu/faculty/david-tank)_
-- Adversarial debiasing for a three-alternative forced-choice spatial planning task in rats.
-- Rotation, Spring 2019: _[Mala Murthy](https://pni.princeton.edu/faculty/mala-murthy)_
-- State-dependent modulation of feature-selective acoustic neurons in Drosophila melanogaster.
-- Rotation, Fall 2018: _[Andrew Leifer](https://pni.princeton.edu/faculty/andrew-leifer)_
-- Neuromodulatory tuning of whole-brain neural dynamics during locomotion in Caenorhabditis elegans.
+- Advisor: _[David Tank](https://pni.princeton.edu/faculty/david-tank)_
 
 `2018`
 __Summer Research Intern__, RIKEN Center for Brain Science (CBS), Tokyo, Japan
