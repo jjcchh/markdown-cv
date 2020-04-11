@@ -25,7 +25,10 @@ __Swarthmore College__
 __McDonnell Fellows in Neuroscience Graduate Fellowship__
 - Princeton University
 
-`2015`
+`2016`
+__The Frank Solomon Jr. Student Art Purchase Fund__
+- Swarthmore College
+
 __Associate Member__
 - Sigma XI
 
