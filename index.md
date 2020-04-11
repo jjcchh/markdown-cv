@@ -106,6 +106,14 @@ Crall J.D., __Chang J.J.__, Mistick E.A., & Combes S.A. (2015). Free flight thro
 `2016`
 __Chang, J.J.__ (2016). Shapes and Veils. Senior Thesis Exhibition, Department of Art, Swarthmore College, List Gallery.
 
+## Teaching
+
+`2019-20`
+__Assistant in Instruction__, NEU 422, Princeton University
+
+`2018-19`
+__Assistant in Instruction__, NEU 314, Princeton University
+
 ## Service & Outreach
 
 `2015`
