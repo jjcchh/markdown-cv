@@ -3,11 +3,13 @@ layout: cv
 title: Jeremy Chang's CV
 ---
 
+
 # Jeremy Chang
 
 Graduate student in neuroscience at Princeton Univeristy
 
 [jjchang64@gmail.com](mailto:jjchang64@gmail.com)
+
 
 ## Education
 
@@ -18,6 +20,7 @@ __Princeton University__
 `2012-16`
 __Swarthmore College__
 - B.A., Biology and Studio Art
+
 
 ## Fellowships & Awards
 
@@ -40,8 +43,6 @@ __Robert K. Enders Field Biology Award__
 __Summer Experiential Fellowship__
 - Swarthmore College
 
-`2012`
-__AP Scholar with Distinction__
 
 ## Research
 
@@ -69,6 +70,7 @@ __Summer Research Intern__, Department of Pathology, Memorial Sloan-Kettering Ce
 - Advisors: _Victor Reuter, Samson Fine_
 - Clinical database streamlining, antibody characterization, staining protocol development, immunohistochemical assays on tissue microarrays.
 
+
 ## Publications
 
 <!---A list is also available [online](https://scholar.google.com/citations?user=nMrhcyUAAAAJ&hl=en)--->
@@ -83,6 +85,7 @@ __Chang, J. J.<sup>*</sup>__, Crall, J. D.<sup>*</sup>, & Combes, S. A. (2016). 
 
 `2013`
 Gopalan, A., Leversha, M.A., Dudas, M.E., Maschino, A.C., __Chang, J.J.__, Al-Ahmadie, H.A., Chen, Y.B., Tickoo, S.K., Reuter, V.E., & Fine, S.W. (2013). TMPRSS2–ERG rearrangement in dominant anterior prostatic tumours: incidence and correlation with ERG immunohistochemistry. doi:10.1111/his.12153. __Histopathology.__ 63(2), 279-286.
+
 
 ### Posters
 
@@ -101,18 +104,15 @@ __Chang, J.J.__, Crall, J.D., & Combes, S.A. (2015). Touching Down Headfirst: La
 `2015`
 Crall J.D., __Chang J.J.__, Mistick E.A., & Combes S.A. (2015). Free flight through tough turbulence: Bumblebee flight stability across body size, speed, and flow regime. Int. and Comp. Biol. 55(Suppl. 1), E240. Conference abstract.
 
-## Exhibitions
-
-`2016`
-__Chang, J.J.__ (2016). Shapes and Veils. Senior Thesis Exhibition, Department of Art, Swarthmore College, List Gallery.
 
 ## Teaching
 
 `2019-20`
-__Assistant in Instruction__, NEU 422, Princeton University
+__Assistant in Instruction__, NEU 422: Dynamics in Cognition, Princeton University
 
 `2018-19`
-__Assistant in Instruction__, NEU 314, Princeton University
+__Assistant in Instruction__, NEU 314: Mathematical Tools for Neuroscience, Princeton University
+
 
 ## Service & Outreach
 
@@ -123,6 +123,12 @@ __Student presenter__, Concord Field Station Workshop, Bedford, MA
 `2012-13`
 __Volunteer__, Project Angkor, Cambodia
 - Conducted refraction and visual acuity tests, prescribed reading glasses, and observed surgeries for an ongoing humanitarian mission providing free healthcare, education, and training to the people of Cambodia. 
+
+## Exhibitions
+
+`2016`
+__Chang, J.J.__ (2016). Shapes and Veils. Senior Thesis Exhibition, Department of Art, Swarthmore College, List Gallery.
+
 
 ## Specialized in
 
