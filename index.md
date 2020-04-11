@@ -21,25 +21,22 @@ __Swarthmore College__
 ## Awards
 
 `2018-2019`
-McDonnell Fellows in Neuroscience Graduate Fellowship
+__McDonnell Fellows in Neuroscience Graduate Fellowship__
 - Princeton University
 
 `2016`
-The Frank Solomon Jr. Student Art Purchase Fund
+__The Frank Solomon Jr. Student Art Purchase Fund__
 - Swarthmore College
-Associate Member
+__Associate Member__
 - Sigma XI
 
-` `
-Robert K. Enders Field Biology Award
+`2015`
+__Robert K. Enders Field Biology Award__
 - Swarthmore College
 
 `2014`
-Summer Experiential Fellowship
+__Summer Experiential Fellowship__
 - Swarthmore College
-
-`2012`
-AP Scholar with Distinction
 
 
 ## Research
